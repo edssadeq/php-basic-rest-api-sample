@@ -1,0 +1,17 @@
+{
+    "name": "essadeq/php_rest_api_first",
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Src\\": "./Src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "edssadeq",
+            "email": "essadeq0701@gmail.com"
+        }
+    ]
+}
